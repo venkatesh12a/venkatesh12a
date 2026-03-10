@@ -16,7 +16,9 @@
 
   <p>
     <img src="https://img.shields.io/badge/📍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:venkateshayyappan195@gmail.com"><img src="https://img.shields.io/badge/📧_venkateshayyappan195@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=venkateshayyappan195@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_•_Cloud_•_Security)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_Building_Secure_Solutions-1e1e2e?style=for-the-badge" />
   </p>
