@@ -11,7 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer passionate about building secure, scalable cloud solutions with enterprise-grade encryption and user-centric design. Specializing in innovative projects that combine cutting-edge technology with real-world applications.
+    I'm a Cloud Engineer & full-stack developer passionate about building secure, scalable cloud solutions with enterprise-grade encryption and user-centric design. Specializing in innovative projects that combine cutting-edge technology with real-world applications.
   </p>
 
   <p>
