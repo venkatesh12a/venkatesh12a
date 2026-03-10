@@ -5,7 +5,7 @@
   Hi, I'm <strong>Venkatesh</strong>
 </h1>
 
-<h3>Full Stack Developer & Cloud Security Enthusiast | Python • Streamlit • Web Security</h3>
+<h3>Cloud Engineer | Cloud Security Enthusiast | Development | Python • Streamlit • Web Security</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
