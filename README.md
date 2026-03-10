@@ -94,135 +94,74 @@
 <td width="50%">
 
 ### 🔒 Secure Cloud Storage
-> Streamlit • Python • AES-256 Encryption  
-End-to-end encrypted file management system with distributed storage, Reed-Solomon erasure coding, and multi-user authentication. Enterprise-grade security for cloud file management.
+> Python • Encryption • Distributed Storage  
+Secure multi-user cloud storage system with encryption and distributed nodes for safe file management.
 
 **Features:**
-- Military-grade AES-256 encryption
-- Distributed node architecture
-- SHA-256 integrity verification
-- Multi-user support with role-based access
-- Real-time security dashboard
+- AES-256 encryption
+- Distributed storage architecture
+- Secure file upload system
+- Multi-user authentication
+- Data integrity verification
 
 [View Repository](https://github.com/venkatesh12a/Secure-cloud-storage)
 
 </td>
 <td width="50%">
 
-### 💼 Advanced E-Commerce Platform
-> Flask • Python • Session Auth  
-Production-ready fashion e-commerce store with secure authentication, inventory management, and scalable architecture for online retail.
-
-**Features:**
-- Session-based authentication
-- Product catalog management
-- Secure shopping cart
-- Order tracking system
-- Admin dashboard
-
-[View Repository](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💸 Expense Tracker (MERN)
-> MongoDB • Express • React • Node.js  
-Full-stack financial tracking application with real-time data visualization, budget management, and comprehensive expense analytics.
-
-**Features:**
-- Real-time expense tracking
-- Budget category management
-- Interactive charts & graphs
-- Data export functionality
-- Mobile responsive design
-
-[View Repository](#)
-
-</td>
-<td width="50%">
-
-### 🧠 NeuraScan – Dyslexia Screening
-> Python • Random Forest • ML  
-Machine learning-based dyslexia screening system using Random Forest classification for early, accessible neurological assessments.
-
-**Features:**
-- ML-powered diagnostics
-- Random Forest algorithm
-- Accuracy: 87%+
-- Early intervention support
-- Research-backed methodology
-
-[View Repository](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 AI Hospital Management System
-> Flask • Python • AI/ML  
-Intelligent hospital management platform with smart patient triage, real-time bed tracking, resource allocation, and predictive analytics.
-
-**Features:**
-- Smart patient triage system
-- Real-time bed management
-- Resource optimization
-- Predictive analytics dashboard
-- Staff scheduling automation
-
-[View Repository](#)
-
-</td>
-<td width="50%">
-
 ### 📅 AI Event Planner
-> Flask • Python • Gemini AI • Stability AI  
-Intelligent event planning assistant powered by Google Gemini AI with AI-generated visuals. End-to-end planning, scheduling, and creative asset generation.
+> Flask • Python • Gemini AI  
+AI-powered event planning assistant that helps users organize events with intelligent scheduling and AI-generated visuals.
 
 **Features:**
 - Gemini AI integration
-- Intelligent scheduling
-- AI-generated visuals
-- Budget management
-- Guest coordination tools
+- AI generated visuals
+- JWT authentication
+- SQLite database
+- Event scheduling system
 
-[View Repository](#)
+[View Repository](https://github.com/venkatesh12a/AI_Event_Planner)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 📱 Mobile Chat Application
-> React Native • Firebase • WebSocket  
-Real-time messaging application with end-to-end encryption, user authentication, and seamless cross-platform experience.
+### 🚕 Online Cab Booking
+> PHP • Web Application  
+Web-based cab booking system allowing users to search, book, and manage rides while admins manage drivers and vehicles.
 
 **Features:**
-- Real-time messaging
-- End-to-end encryption
-- User authentication
-- File sharing capability
-- Typing indicators
+- Cab booking system
+- Driver & vehicle management
+- Admin dashboard
+- Booking history
+- Ride management system
 
-[View Repository](#)
+[View Repository](https://github.com/venkatesh12a/Online-cab-booking)
 
 </td>
 <td width="50%">
 
-### 🤖 Chatbot Intelligence Platform
-> Python • NLP • TensorFlow  
-Conversational AI platform with natural language processing for customer support and business automation.
+### 🎬 Movie Recommender
+> Node.js • Express • JavaScript  
+Movie recommendation web application that suggests personalized films based on user ratings and preferences.
 
 **Features:**
-- NLP powered responses
-- Machine learning training
-- Multi-language support
-- Intent recognition
-- Response personalization
+- Personalized movie recommendations
+- Express.js backend
+- Interactive UI
+- User rating system
+- Recommendation logic
 
-[View Repository](#)
+[View Repository](https://github.com/venkatesh12a/Movie-Recommender)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 </td>
 </tr>
@@ -240,3 +179,4 @@ current_focus = {
     "⚡ Next Phase": "Building scalable enterprise security tools",
     "🎯 Mission"   : "Making enterprise-grade security accessible"
 }
+```
